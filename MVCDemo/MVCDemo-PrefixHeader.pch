@@ -1,0 +1,17 @@
+//
+//  MVCDemo-PrefixHeader.pch
+//  MVCDemo
+//
+//  Created by yu on 2018/6/2.
+//  Copyright © 2018年 yu. All rights reserved.
+//
+
+#ifndef MVCDemo_PrefixHeader_pch
+#define MVCDemo_PrefixHeader_pch
+
+#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+
+#import "SDAutoLayout/SDAutoLayout.h"
+
+#endif /* MVCDemo_PrefixHeader_pch */
